@@ -12,6 +12,19 @@ Compatible with desktop and mobile devices
 ![Potrait](mobile.gif)
 
 
+
+
+
+# Technologies used
+
+HTML, CSS, JavaScript (JSX ES6), Visual Studio
+
+Libraries - React, jQurey(.ajax method only)
+
+
+
+
+
 ## Introduction to react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
