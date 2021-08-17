@@ -3,7 +3,13 @@
 ## Results:
 
 Compatible with desktop and mobile devices
+1) Desktop
 
+![landscape](desktop.gif)
+
+2) Mobile
+
+![Potrait](mobile.gif)
 
 
 ## Introduction to react
