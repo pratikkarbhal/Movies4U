@@ -1,4 +1,12 @@
-# Introduction to react
+# Web app is live - [See Preview](https://pratikkarbhal.github.io/Movies4U/).
+
+## Results:
+
+Compatible with desktop and mobile devices
+
+
+
+## Introduction to react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
