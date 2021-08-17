@@ -1,6 +1,6 @@
 # Web appication is live - [See Preview](https://pratikkarbhal.github.io/Movies4U/).
 
-## Results:
+## *Results:
 
 Compatible with desktop and mobile devices
 1) Desktop
@@ -12,10 +12,11 @@ Compatible with desktop and mobile devices
 ![Potrait](mobile.gif)
 
 
+#
+#
 
 
-
-# Technologies used
+# *Technologies used
 
 HTML, CSS, JavaScript (JSX ES6), Visual Studio
 
@@ -23,7 +24,8 @@ Libraries - React, jQurey(.ajax method only)
 
 
 
-
+#
+#
 
 ## Introduction to react
 
