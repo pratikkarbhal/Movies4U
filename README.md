@@ -22,6 +22,8 @@ HTML, CSS, JavaScript (JSX ES6), Visual Studio
 
 Libraries - React, jQurey(.ajax method only)
 
+API - The Movie DataBase [TMDB](https://developers.themoviedb.org/3/search/search-movies)
+
 
 
 #
