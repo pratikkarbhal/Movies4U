@@ -1,4 +1,4 @@
-# Web appication is live - [See Preview](https://pratikkarbhal.github.io/Movies4U/).
+# Web app is live - [See Preview](https://pratikkarbhal.github.io/Movies4U/).
 
 ## *Results:
 
